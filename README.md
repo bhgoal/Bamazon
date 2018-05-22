@@ -9,3 +9,6 @@ Bamazon is a Node command line application that allows users to simulate operati
 
 ## Notes:
 *bamazonSupervisor* is in development and will allow users to view sales figures for each department and calculate their profits.
+
+
+A demo of the app can be found [here](https://github.com/bhgoal/Bamazon/blob/master/bamazon_demo.mov)
